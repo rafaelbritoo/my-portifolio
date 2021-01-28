@@ -1,3 +1,3 @@
-# Meu site pessoal
+# Site pessoal
 
 - Site onde pode encontrar meus dados profissionais.
